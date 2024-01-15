@@ -197,11 +197,11 @@ ul li span:hover {
     overflow: visible;
     left: 50%;
     transform: translateX(-50%);
-
+    width: 90%;
     padding: 1.8rem;
   }
   h2 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
   i {
     font-size: 2rem;
